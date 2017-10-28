@@ -10,12 +10,15 @@ body {
 
 header {
 	background-color: #333333;
-	text-align: center;
 }
 
 h1 {
-	font-color: #eee;
+	color: #eee;
 	font-size: 28px;
+	text-align: center;
+	margin: 0;
+	margin-bottom: 20px;
+	padding: 20px 0;
 }
 
 h2 {
@@ -43,12 +46,9 @@ a {
 }
 
 #bio-img {
+	margin-right: 20px;
 	width: 200px;
-	height: auto;
-	margin-top: 100px;
-    margin-bottom: 300px;
-    margin-right: 200px;
-    margin-left: 100px;
+	height: 200px;
 }
 
 #contact-info {
